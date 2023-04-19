@@ -16,7 +16,7 @@ const Head = () => {
         onClick={() => toggleMenuHandler()}
         className='h-8 cursor-pointer'
         alt="menu" 
-        src ="https://www.svgrepo.com/show/312300/hamburger-menu.svg"
+        src ="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hamburger_icon.svg/1024px-Hamburger_icon.svg.png"
         />
 
         <a href='/'>
